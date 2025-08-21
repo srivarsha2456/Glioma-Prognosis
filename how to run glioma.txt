@@ -1,0 +1,19 @@
+how to run glioma
+
+open anaconda prompt from search
+
+type
+
+conda activate tp 
+
+cd C:\Users\asiva\OneDrive\Desktop\Empowering Glioma Prognosis With Transparent Machine Learning and Interpretativ
+
+python app.py
+
+ctrl + click on link website will open 
+
+register
+login
+upload image from static img folder
+view image
+click predict 
